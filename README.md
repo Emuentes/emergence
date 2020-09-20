@@ -1,0 +1,2 @@
+# emergence
+an npm module
