@@ -1,0 +1,12 @@
+{
+  "name": "@ghost-modules/emergence",
+  "version": "1.0.0",
+  "description": "Emerging Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deployToNpm": "npm publish --access public"
+  },
+  "author": "Edgar J. Muentes",
+  "license": "ISC"
+}
